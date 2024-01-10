@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https//:thechristopherbartlett.github.io/html-css-react.js-calculator/static/css/main.7e7c7c3d.css",
-    "main.js": "/https//:thechristopherbartlett.github.io/html-css-react.js-calculator/static/js/main.60f5dd5c.js",
-    "index.html": "/https//:thechristopherbartlett.github.io/html-css-react.js-calculator/index.html",
-    "main.7e7c7c3d.css.map": "/https//:thechristopherbartlett.github.io/html-css-react.js-calculator/static/css/main.7e7c7c3d.css.map",
-    "main.60f5dd5c.js.map": "/https//:thechristopherbartlett.github.io/html-css-react.js-calculator/static/js/main.60f5dd5c.js.map"
+    "main.css": "/html-css-react.js-calculator/static/css/main.7e7c7c3d.css",
+    "main.js": "/html-css-react.js-calculator/static/js/main.60f5dd5c.js",
+    "index.html": "/html-css-react.js-calculator/index.html",
+    "main.7e7c7c3d.css.map": "/html-css-react.js-calculator/static/css/main.7e7c7c3d.css.map",
+    "main.60f5dd5c.js.map": "/html-css-react.js-calculator/static/js/main.60f5dd5c.js.map"
   },
   "entrypoints": [
     "static/css/main.7e7c7c3d.css",
